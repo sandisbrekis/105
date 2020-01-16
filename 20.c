@@ -1,3 +1,9 @@
+/* 20.c
+Programmas autors: Sandis Brēķis 121REB474
+Programma veidota 2019. gada 23. novembrī
+Versija: 1.0
+Programma mani iztaujā un veic aprēķinus lietojot user-functions */
+
 #include<stdio.h>
 
 void f61()
