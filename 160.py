@@ -1,3 +1,6 @@
+# 160.py
+# Sandis Brēķis
+# 121REB474
 g = 9.81
 
 v0 = 0 # bumbas sakuma miera stavoklis
