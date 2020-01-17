@@ -2,14 +2,14 @@
 Programmas autors: Sandis Brēķis 121REB474
 Programma veidota 2020. gada 16. janvārī
 Versija: 1.0
-Masiiva kaartoshana */
+Masiva kartoshana */
 
 #include <stdio.h>
 int main()
 {
  int i, j, k; // ciklu mainigie
  int Temp; // islaicigais mainigais
- int mas3[] = {2, 5, 3, 7, 0}; // kaartojamo skaitlju masiivs
+ int mas3[] = {2, 5, 3, 7, 0}; // kartojamo skaitlju masivs
  printf ("Masiva izmers = %d\n", sizeof(mas3)/ sizeof(int));
 
  for (i=0; i<5; i++) // cikliska masiva kartoshana
